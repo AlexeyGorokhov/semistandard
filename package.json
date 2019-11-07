@@ -1,0 +1,41 @@
+{
+  "name": "@memnrev/semistandard",
+  "version": "0.0.1",
+  "description": "Customized semistandard",
+  "main": "index.js",
+  "bin": {
+    "semistandard": "./bin/cmd.js"
+  },
+  "engines": {
+    "node": ">=6"
+  },
+  "author": {
+    "name": "Alexey Gorokhov",
+    "email": "alexey.gorokhov@icloud.com",
+    "url": ""
+  },
+  "homepage": "https://github.com/AlexeyGorokhov/semistandard",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AlexeyGorokhov/semistandard.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AlexeyGorokhov/semistandard/issues"
+  },
+  "keywords": [
+    "JavaScript Standard Style"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "eslint": "^6.4.0",
+    "eslint-config-semistandard": "^15.0.0",
+    "eslint-config-standard": "^14.1.0",
+    "eslint-config-standard-jsx": "^8.1.0",
+    "eslint-plugin-import": "^2.18.0",
+    "eslint-plugin-node": "^10.0.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-react": "^7.14.2",
+    "eslint-plugin-standard": "^4.0.0",
+    "standard-engine": "^12.0.0"
+  }
+}

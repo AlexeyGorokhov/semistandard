@@ -1,3 +1,13 @@
 {
-   "extends": ["semistandard", "standard-jsx"]
+  "extends": ["semistandard", "standard-jsx"],
+  "rules": {
+    "react/jsx-closing-bracket-location": 0,
+    "quote-props": 0,
+    "dot-notation": 0,
+    "array-bracket-spacing": 0,
+    "react/jsx-curly-newline": 0,
+    "react/jsx-handler-names": 0,
+    "react/jsx-key": 0,
+    "react/jsx-fragments": 0
+  }
 }

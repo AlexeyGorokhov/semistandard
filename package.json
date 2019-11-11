@@ -1,6 +1,6 @@
 {
   "name": "@memnrev/semistandard",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Customized semistandard",
   "main": "index.js",
   "bin": {
